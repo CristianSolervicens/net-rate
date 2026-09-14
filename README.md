@@ -13,7 +13,7 @@ Cristian Solervicéns.
 Acabo de dejar funcionando este programa que encontré entre mis cachureos de hace quién sabe cuantos años.
 En su momento me fue de bastante utilidad, hoy es un cachureo entretenido de cuando programaba bastante en C, cuando WindowsXP era lo máximo, y cuando Visual Basic 6 era el rey.
 
-Me dió algun trabajo porque estoy un poco oxidado con "C" pero logré compilarlo en el WSL de Windows con Ubuntu 24.02 !!!
+Me dió algun trabajo porque estoy un poco oxidado con "C" pero logré compilarlo en el WSL de Windows con Ubuntu 24.02 (y bajo windows también debería compilar con Dev-C++) !!!
 
 ```
 gcc net-rate.c -o net-rate
